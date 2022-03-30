@@ -1,0 +1,7 @@
+﻿  Admin.cpp
+Admin.cpp(75): warning C4101: 'e': unreferenced local variable
+  Password.cpp
+  Generating code
+  All 241 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AdminProgram(groupProject).vcxproj -> C:\Users\miniw\Desktop\AdminProgram\x64\Release\AdminProgram(groupProject).exe
