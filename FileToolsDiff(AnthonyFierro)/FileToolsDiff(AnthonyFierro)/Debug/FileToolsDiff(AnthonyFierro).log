@@ -1,0 +1,4 @@
+﻿  FileToolsDiff(AnthonyFierro).cpp
+c:\users\xanth\desktop\filetoolsdiff(anthonyfierro)\filetoolsdiff(anthonyfierro)\filetoolsdiff(anthonyfierro).cpp(17): warning C4101: 'counter': unreferenced local variable
+  FileToolsDiff(AnthonyFierro).vcxproj -> C:\Users\xanth\Desktop\FileToolsDiff(AnthonyFierro)\Debug\FileToolsDiff(AnthonyFierro).exe
+  FileToolsDiff(AnthonyFierro).vcxproj -> C:\Users\xanth\Desktop\FileToolsDiff(AnthonyFierro)\Debug\FileToolsDiff(AnthonyFierro).pdb (Partial PDB)
