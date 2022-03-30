@@ -1,0 +1,6 @@
+﻿  StructureLab(AnthonyFierro).cpp
+StructureLab(AnthonyFierro).cpp(22): warning C4101: 'measureArr': unreferenced local variable
+  Generating code
+  All 30 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StructureLab(AnthonyFierro).vcxproj -> C:\Users\xanth\Desktop\CIT-237\StructurLab\Release\StructureLab(AnthonyFierro).exe
